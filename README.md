@@ -1,6 +1,6 @@
 # SLAM Jobs
 
-持续更新中...
+持续更新中...，欢迎Star。
 
 ## Introduction
 
@@ -10,9 +10,9 @@
 
 ## 无人驾驶SLAM岗位
 无人驾驶的公司包括但不限于以下这些公司：
-* [百度](http://iv.baidu.com/employ.html)
+* [百度（百度智能汽车事业部）](http://iv.baidu.com/employ.html)
 * 腾讯（找不到这个链接）
-* [阿里巴巴](https://campus.alibaba.com/traineePositions.htm?spm=a1z3e1.11874847.0.0.16a54928IfYPYy&refno=12215)
+* [阿里巴巴（ET实验室）](https://campus.alibaba.com/traineePositions.htm?spm=a1z3e1.11874847.0.0.16a54928IfYPYy&refno=12215)
 * [Pony.ai（小马智行）](https://www.pony.ai/zh/)
 * [Momenta](http://www.momenta.cn/)
 * [地平线](https://www.horizon.ai/)
@@ -46,6 +46,7 @@
 未完成，待更新
 * [大疆]()
 * [顺丰]()
+* [海康威视]()
 * [普渡科技]()
 * [灵动科技]()
 

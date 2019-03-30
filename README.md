@@ -1,5 +1,7 @@
 # SLAM Jobs
 
+持续更新中...
+
 ## Introduction
 
 这个一份SLAM/SFM求职指南，旨在帮助视觉SLAM/SFM的小伙伴们能够找到更好的工作。

@@ -21,7 +21,7 @@
 * [DeeopMotion（深动科技）](https://deepmotion.ai/)
 * [MINIEYE](http://www.minieye.cc/)
 * [主线科技](http://trunk.tech/)
-* * [驭势科技](https://www.uisee.com/)
+* [驭势科技](https://www.uisee.com/)
 * [Holomatic（禾多科技）](http://www.holomatic.cn/)
 * [中智行](http://www.allride.ai/index.php)
 * [纵目科技](http://www.zongmutech.com/)

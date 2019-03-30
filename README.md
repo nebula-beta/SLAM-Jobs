@@ -38,7 +38,7 @@
 
 ## AR SLAM岗位
 未完成，待更新
-* [头条（抖音）](https://www.lagou.com/jobs/5119134.html)
+* [头条（抖音）](https://www.nowcoder.com/discuss/150787)
 * [旷视科技](http://www.yingjiesheng.com/job-004-033-009.html)
 * [太若科技（nreal.ai）](https://www.zhipin.com/job_detail/8c385370a1c577641HZ_2dS0FFU~.html?ka=comp_joblist_8)
 * 映客直播
@@ -72,7 +72,20 @@
 
 
 
-
+## 需要的能力
+不同的岗位可能需要的能力不同，下面所需的能力只能作为参考。
+### 编程能力
+* C++
+* Ceres、G2O、GTSAM等优化库
+* OpenCV
+* Eigen
+* CUDA
+### 算法能力
+* 特征点提取及其匹配原理
+* 多视图几何
+* 单目/双目/RGB-D SLAM
+* 立体匹配
+* KF、EKF滤波
 
 
 

@@ -41,14 +41,13 @@
 * [头条（抖音）](https://www.lagou.com/jobs/5119134.html)
 * [旷视科技](http://www.yingjiesheng.com/job-004-033-009.html)
 * [太若科技（nreal.ai）](https://www.zhipin.com/job_detail/8c385370a1c577641HZ_2dS0FFU~.html?ka=comp_joblist_8)
-* [映客直播]()
-* [悉见科技]()
-* [虹宇科技]()
+* 映客直播
+* [悉见科技](https://www.lagou.com/jobs/4890583.html)
 
 ## 机器人SLAM岗位
 未完成，待更新
 * [大疆](http://www.sohu.com/a/134310618_642762)
-* [顺丰]()
+* 顺丰
 * [平安科技](https://www.nowcoder.com/discuss/148403)
 * [海康威视](https://www.zhipin.com/job_detail/943e727298f4699e1XBy29u0GVI~.html)
 * [普渡科技](https://www.lagou.com/jobs/5502406.html?source=pl&i=pl-8)

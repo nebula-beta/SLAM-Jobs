@@ -48,7 +48,7 @@
 未完成，待更新
 * [大疆](http://www.sohu.com/a/134310618_642762)
 * 顺丰
-* [平安科技](https://www.nowcoder.com/discuss/148403)
+* [平安科技机器人](https://www.nowcoder.com/discuss/148403)
 * [海康威视](https://www.zhipin.com/job_detail/943e727298f4699e1XBy29u0GVI~.html)
 * [普渡科技](https://www.lagou.com/jobs/5502406.html?source=pl&i=pl-8)
 * [灵动科技](https://www.lagou.com/jobs/5148394.html)
@@ -61,7 +61,12 @@
 * [Aibee](https://www.lagou.com/jobs/5328704.html)
 
 
-
+## 面试经验
+* [视觉SLAM方向找工作经历](http://www.cnblogs.com/xtl9/p/8053331.html)
+* [SLAM求职经验贴收藏](https://blog.csdn.net/weixin_39752599/article/details/82939795)
+* [SLAM、3D vision求职经历](https://zhuanlan.zhihu.com/p/56617825)
+* [2019高仙机器人校园招聘笔试题：算法工程师-Slam方向](https://www.wjx.cn/xz/28595136.aspx)
+* [SLAM算法实习生——两周工作经验总结](https://blog.csdn.net/qq_39732684/article/details/80853109)
 
 
 

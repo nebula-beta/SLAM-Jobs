@@ -30,7 +30,7 @@
 |[图森未来](https://www.tusimple.com/cn/)|北京|
 |[Roadstar.ai](http://roadstar.ai/)|深圳|
 |[DeeopMotion（深动科技）](https://deepmotion.ai/career)|北京|
-|[MINIEYE](http://www.minieye.cc/)|深圳|
+|[MINIEYE](http://www.minieye.cc/contact#1)|北京、深圳、南京|
 |[主线科技](http://trunk.tech/)|北京|
 |[驭势科技](https://www.uisee.com/)|上海、北京、深圳、南京|
 |[Holomatic（禾多科技）](http://www.holomatic.cn/)|北京、上海|

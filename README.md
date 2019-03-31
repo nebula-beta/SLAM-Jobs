@@ -16,26 +16,26 @@
 * 腾讯（找不到这个链接）
 * [阿里巴巴（ET实验室）](https://campus.alibaba.com/traineePositions.htm?spm=a1z3e1.11874847.0.0.16a54928IfYPYy&refno=12215)
 * [滴滴](https://www.didiglobal.com/science/intelligent-driving)
-* [华为](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=82835&d=1553997136128&type=0&jobFamClsCode=JFC1)
-* [商汤科技](https://www.nowcoder.com/discuss/151714)
+* [华为](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=82835&d=1553997136128&type=0&jobFamClsCode=JFC1) 北京、深圳、上海
+* [商汤科技](https://www.nowcoder.com/discuss/151714) 杭州
 * [Pony.ai（小马智行）](https://www.pony.ai/zh/) 北京、广州、深圳
 * [Momenta](http://www.momenta.cn/) 北京、苏州
-* [文远知行（景驰科技）](https://www.weride.ai/)
-* [地平线](https://www.horizon.ai/)
-* [图森未来](https://www.tusimple.com/cn/)
-* [Roadstar.ai](http://roadstar.ai/)
+* [文远知行（景驰科技）](https://www.weride.ai/)  广州、北京
+* [地平线](https://www.horizon.ai/) 北京、上海
+* [图森未来](https://www.tusimple.com/cn/) 北京
+* [Roadstar.ai](http://roadstar.ai/) 深圳
 * [DeeopMotion（深动科技）](https://deepmotion.ai/)
 * [MINIEYE](http://www.minieye.cc/)
 * [主线科技](http://trunk.tech/)
-* [驭势科技](https://www.uisee.com/)
-* [Holomatic（禾多科技）](http://www.holomatic.cn/)
+* [驭势科技](https://www.uisee.com/) 上海、北京、嘉兴、深圳、南京
+* [Holomatic（禾多科技）](http://www.holomatic.cn/) 北京、上海
 * [中智行](http://www.allride.ai/index.php)
 * [纵目科技](http://www.zongmutech.com/)
-* [飞步科技](http://www.fabu.ai/)
-* [领骏科技](http://www.leadgentech.ai/)
-* [酷哇机器人](http://www.cowarobot.com/)
-* [小鹏汽车](https://app.mokahr.com/recommendation-apply/xiaopeng/3537#/jobs?keyword=SLAM&page=1&_k=rpoum0)
-* [纽劢科技](https://app.mokahr.com/apply/nullmax/3921#/job/475ea11d-f0d8-4fb1-83d2-aa58fe4dfb7c?_k=e5sj6o)
+* [飞步科技](http://www.fabu.ai/) 杭州
+* [领骏科技](http://www.leadgentech.ai/) 北京
+* [酷哇机器人](http://www.cowarobot.com/) 上海
+* [小鹏汽车](https://app.mokahr.com/recommendation-apply/xiaopeng/3537#/jobs?keyword=SLAM&page=1&_k=rpoum0) 广州
+* [纽劢科技](https://app.mokahr.com/apply/nullmax/3921#/job/475ea11d-f0d8-4fb1-83d2-aa58fe4dfb7c?_k=e5sj6o) 上海
 
 上面这些公司，除了BAT之外，大部分都是专门搞`无人驾驶`的，所以应聘的话，只需要去到他们的官网，然后点击`加入我们`就能够看到相应的职位及其要求了。
 
@@ -57,12 +57,12 @@
 * [大疆](http://www.sohu.com/a/134310618_642762)
 * 顺丰
 * [海康威视](https://www.zhipin.com/job_detail/943e727298f4699e1XBy29u0GVI~.html)
-* [CVTE](http://campus.cvte.com/research/)
+* [CVTE](http://campus.cvte.com/research/) 
 * [平安科技机器人](https://www.nowcoder.com/discuss/148403)
 * [普渡科技](https://www.lagou.com/jobs/5502406.html?source=pl&i=pl-8)
 * [灵动科技](https://www.lagou.com/jobs/5148394.html)
 * [思岚科技](http://www.slamtec.com/cn/)
-* [高仙机器人](http://www.gs-robot.com/)
+* [高仙机器人](http://www.gs-robot.com/) 上海
 * [眸视科技](http://www.iotcnn.com/jobs/)
 
 

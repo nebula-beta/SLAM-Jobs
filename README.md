@@ -32,7 +32,7 @@
 |[DeeopMotion（深动科技）](https://deepmotion.ai/career)|北京|
 |[MINIEYE](http://www.minieye.cc/)|深圳|
 |[主线科技](http://trunk.tech/)|北京|
-|[驭势科技](https://www.uisee.com/)|上海、北京、嘉兴、深圳、南京|
+|[驭势科技](https://www.uisee.com/)|上海、北京、深圳、南京|
 |[Holomatic（禾多科技）](http://www.holomatic.cn/)|北京、上海|
 |[中智行](http://www.allride.ai/index.php)|南京|
 |[纵目科技](http://www.zongmutech.com/join-us/20170607234)|北京|
@@ -59,6 +59,7 @@
 |[太若科技（nreal.ai）](https://www.zhipin.com/job_detail/8c385370a1c577641HZ_2dS0FFU~.html?ka=comp_joblist_8)|北京|
 |映客直播||
 |[悉见科技](https://www.lagou.com/jobs/4890583.html)|北京|
+|[ULSee](https://www.lagou.com/jobs/4583628.html?source=pl&i=pl-0)|杭州|
 
 ## 机器人SLAM岗位
 未完成，待更新

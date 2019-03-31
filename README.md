@@ -35,6 +35,7 @@
 * [领骏科技](http://www.leadgentech.ai/)
 * [酷哇机器人](http://www.cowarobot.com/)
 * [小鹏汽车](https://app.mokahr.com/recommendation-apply/xiaopeng/3537#/jobs?keyword=SLAM&page=1&_k=rpoum0)
+* [纽劢科技](https://app.mokahr.com/apply/nullmax/3921#/job/475ea11d-f0d8-4fb1-83d2-aa58fe4dfb7c?_k=e5sj6o)
 
 上面这些公司，除了BAT之外，大部分都是专门搞`无人驾驶`的，所以应聘的话，只需要去到他们的官网，然后点击`加入我们`就能够看到相应的职位及其要求了。
 

@@ -14,8 +14,8 @@
 * 腾讯（找不到这个链接）
 * [阿里巴巴（ET实验室）](https://campus.alibaba.com/traineePositions.htm?spm=a1z3e1.11874847.0.0.16a54928IfYPYy&refno=12215)
 * [滴滴](https://www.didiglobal.com/science/intelligent-driving)
-* [Pony.ai（小马智行）](https://www.pony.ai/zh/)
-* [Momenta](http://www.momenta.cn/)
+* [Pony.ai（小马智行）](https://www.pony.ai/zh/) 北京、广州、深圳
+* [Momenta](http://www.momenta.cn/) 北京、苏州
 * [文远知行（景驰科技）](https://www.weride.ai/)
 * [地平线](https://www.horizon.ai/)
 * [图森未来](https://www.tusimple.com/cn/)
@@ -30,6 +30,7 @@
 * [飞步科技](http://www.fabu.ai/)
 * [领骏科技](http://www.leadgentech.ai/)
 * [酷哇机器人](http://www.cowarobot.com/)
+* [小鹏汽车]()
 
 上面这些公司，除了BAT之外，都是专门搞`无人驾驶`的，所以应聘的话，只需要去到他们的官网，然后点击`加入我们`就能够看到相应的职位及其要求了。
 

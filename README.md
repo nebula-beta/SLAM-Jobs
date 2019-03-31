@@ -15,11 +15,11 @@
 
 无人驾驶的公司包括但不限于以下这些公司：
 
-|公司|地点|
+|公司|工作地点|
 | ------ | ------ |
 |[百度（百度智能汽车事业部）](http://iv.baidu.com/employ.html)|北京|
 |腾讯（找不到这个链接）||
-|[阿里巴巴（ET实验室）](https://campus.alibaba.com/traineePositions.htm?spm=a1z3e1.11874847.0.0.16a54928IfYPYy&refno=12215)||
+|[阿里巴巴（ET实验室）](https://campus.alibaba.com/traineePositions.htm?spm=a1z3e1.11874847.0.0.16a54928IfYPYy&refno=12215)|北京、杭州|
 |[滴滴](https://www.didiglobal.com/science/intelligent-driving)||
 |[华为](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=82835&d=1553997136128&type=0&jobFamClsCode=JFC1) |北京、深圳、上海|
 |[商汤科技](https://www.nowcoder.com/discuss/151714)|杭州|
@@ -29,13 +29,13 @@
 |[地平线](https://www.horizon.ai/)|北京、上海|
 |[图森未来](https://www.tusimple.com/cn/)|北京|
 |[Roadstar.ai](http://roadstar.ai/)|深圳|
-|[DeeopMotion（深动科技）](https://deepmotion.ai/)||
-|[MINIEYE](http://www.minieye.cc/)||
-|[主线科技](http://trunk.tech/)||
+|[DeeopMotion（深动科技）](https://deepmotion.ai/career)|北京|
+|[MINIEYE](http://www.minieye.cc/)|深圳|
+|[主线科技](http://trunk.tech/)|北京|
 |[驭势科技](https://www.uisee.com/)|上海、北京、嘉兴、深圳、南京|
 |[Holomatic（禾多科技）](http://www.holomatic.cn/)|北京、上海|
-|[中智行](http://www.allride.ai/index.php)||
-|[纵目科技](http://www.zongmutech.com/)||
+|[中智行](http://www.allride.ai/index.php)|南京|
+|[纵目科技](http://www.zongmutech.com/join-us/20170607234)|北京|
 |[飞步科技](http://www.fabu.ai/)|杭州|
 |[领骏科技](http://www.leadgentech.ai/)|北京|
 |[酷哇机器人](http://www.cowarobot.com/)|上海|
@@ -52,36 +52,36 @@
 ## AR SLAM岗位
 未完成，待更新
 
-|公司|地点|
+|公司|工作地点|
 | ------ | ------ |
-|[头条（抖音）](https://www.nowcoder.com/discuss/150787)||
-|[旷视科技](http://www.yingjiesheng.com/job-004-033-009.html)||
-|[太若科技（nreal.ai）](https://www.zhipin.com/job_detail/8c385370a1c577641HZ_2dS0FFU~.html?ka=comp_joblist_8)||
+|[头条（抖音）](https://www.nowcoder.com/discuss/150787)|北京、上海、深圳|
+|[旷视科技](http://www.yingjiesheng.com/job-004-033-009.html)|北京|
+|[太若科技（nreal.ai）](https://www.zhipin.com/job_detail/8c385370a1c577641HZ_2dS0FFU~.html?ka=comp_joblist_8)|北京|
 |映客直播||
-|[悉见科技](https://www.lagou.com/jobs/4890583.html)||
+|[悉见科技](https://www.lagou.com/jobs/4890583.html)|北京|
 
 ## 机器人SLAM岗位
 未完成，待更新
 
-|公司|地点|
+|公司|工作地点|
 | ------ | ------ |
-|[大疆](http://www.sohu.com/a/134310618_642762)||
+|[大疆](http://www.sohu.com/a/134310618_642762)|深圳|
 |顺丰||
-|[海康威视](https://www.zhipin.com/job_detail/943e727298f4699e1XBy29u0GVI~.html)||
-|[CVTE](http://campus.cvte.com/research/) ||
-|[平安科技机器人](https://www.nowcoder.com/discuss/148403)||
-|[普渡科技](https://www.lagou.com/jobs/5502406.html?source=pl&i=pl-8)||
-|[灵动科技](https://www.lagou.com/jobs/5148394.html)||
-|[思岚科技](http://www.slamtec.com/cn/)||
+|[海康威视](https://www.zhipin.com/job_detail/943e727298f4699e1XBy29u0GVI~.html)|杭州|
+|[CVTE](http://campus.cvte.com/research/) |广州|
+|[平安科技机器人](https://www.nowcoder.com/discuss/148403)|深圳|
+|[普渡科技](https://www.lagou.com/jobs/5502406.html?source=pl&i=pl-8)|深圳|
+|[灵动科技](https://www.lagou.com/jobs/5148394.html)|北京|
+|[思岚科技](http://www.slamtec.com/cn/Home/Career#job-2)|上海|
 |[高仙机器人](http://www.gs-robot.com/)|上海|
-|[眸视科技](http://www.iotcnn.com/jobs/)||
+|[眸视科技](http://www.iotcnn.com/jobs/)|北京|
 
 
 ## 其它
-|公司|地点|
+|公司|工作地点|
 | ------ | ------ |
 |[商汤科技](https://www.nowcoder.com/discuss/151178)|杭州|
-|[Aibee](https://www.lagou.com/jobs/5328704.html)||
+|[Aibee](https://www.lagou.com/jobs/5328704.html)|北京|
 
 
 ## 面试经验

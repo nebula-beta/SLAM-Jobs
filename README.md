@@ -16,7 +16,7 @@
 无人驾驶的公司包括但不限于以下这些公司：
 |公司|地点|
 | ------ | ------ |
-|[百度（百度智能汽车事业部）](http://iv.baidu.com/employ.html)||
+|[百度（百度智能汽车事业部）](http://iv.baidu.com/employ.html)|北京|
 |腾讯（找不到这个链接）||
 |[阿里巴巴（ET实验室）](https://campus.alibaba.com/traineePositions.htm?spm=a1z3e1.11874847.0.0.16a54928IfYPYy&refno=12215)||
 |[滴滴](https://www.didiglobal.com/science/intelligent-driving)||

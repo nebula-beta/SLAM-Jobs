@@ -69,6 +69,7 @@
 ## 其它
 * [商汤科技](https://www.nowcoder.com/discuss/151178)
 * [Aibee](https://www.lagou.com/jobs/5328704.html)
+* [速腾聚创](http://www.robosense.cn/recruitment/school/1)
 
 
 ## 面试经验

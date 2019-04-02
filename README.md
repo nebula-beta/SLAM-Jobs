@@ -98,8 +98,10 @@
 * [CS PhD的SLAM/无人车求职小结](https://zhuanlan.zhihu.com/p/35348586)
 * [2019高仙机器人校园招聘笔试题：算法工程师-Slam方向](https://www.wjx.cn/xz/28595136.aspx)
 * [SLAM算法实习生——两周工作经验总结](https://blog.csdn.net/qq_39732684/article/details/80853109)
-
-
+* [去大疆的面试经验](https://www.zhihu.com/question/59555051/answer/471759873)
+* [SLAM常见面试题一](https://zhuanlan.zhihu.com/p/46694678)
+* [SLAM常见面试题二](https://zhuanlan.zhihu.com/p/46696986)
+* [SLAM常见面试题三](https://zhuanlan.zhihu.com/p/46697912)
 
 
 
@@ -111,6 +113,7 @@
 * OpenCV
 * Eigen
 * CUDA
+* ROS
 ### 算法能力
 * 数据结构与算法
 * 特征点提取及其匹配原理

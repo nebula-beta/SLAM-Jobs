@@ -20,7 +20,7 @@
 |[百度（百度智能汽车事业部）](http://iv.baidu.com/employ.html)|北京|
 |腾讯（找不到这个链接）||
 |[阿里巴巴（ET实验室）](https://campus.alibaba.com/traineePositions.htm?spm=a1z3e1.11874847.0.0.16a54928IfYPYy&refno=12215)|北京、杭州|
-|[滴滴](https://www.didiglobal.com/science/intelligent-driving)||
+|[滴滴](https://www.didiglobal.com/science/intelligent-driving)|北京|
 |[华为](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=82835&d=1553997136128&type=0&jobFamClsCode=JFC1) |北京、深圳、上海|
 |[商汤科技](https://www.nowcoder.com/discuss/151714)|杭州|
 |[Pony.ai（小马智行）](https://www.pony.ai/zh/)|北京、广州、深圳|

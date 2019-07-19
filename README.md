@@ -93,7 +93,8 @@
 ## 面试经验
 * [视觉SLAM方向找工作经历](http://www.cnblogs.com/xtl9/p/8053331.html)
 * [SLAM求职经验贴收藏](https://blog.csdn.net/weixin_39752599/article/details/82939795)
-* [SLAM、3D vision求职经历](https://zhuanlan.zhihu.com/p/56617825)
+* [SLAM、3D vision求职经历(1)](https://zhuanlan.zhihu.com/p/56617825)
+* [SLAM、3D vision求职经历(2)](https://zhuanlan.zhihu.com/p/63755692)
 * [大疆校招提前批面试经验-SLAM算法工程师](https://www.kanzhun.com/gsmsh10505238.html)
 * [CS PhD的SLAM/无人车求职小结](https://zhuanlan.zhihu.com/p/35348586)
 * [2019高仙机器人校园招聘笔试题：算法工程师-Slam方向](https://www.wjx.cn/xz/28595136.aspx)
@@ -102,6 +103,12 @@
 * [SLAM常见面试题一](https://zhuanlan.zhihu.com/p/46694678)
 * [SLAM常见面试题二](https://zhuanlan.zhihu.com/p/46696986)
 * [SLAM常见面试题三](https://zhuanlan.zhihu.com/p/46697912)
+* [如何准备三维视觉、SLAM相关职位的面试](https://mp.weixin.qq.com/s/D0obYJy2swRjLKf_I7J8CQ)
+* [SLAM暑期实习求职经验贴](https://zhuanlan.zhihu.com/p/67818202)
+* [SLAM、定位、建图求职分享](https://zhuanlan.zhihu.com/p/68858564)
+* [SLAM面试问题总结(1)](https://zhuanlan.zhihu.com/p/67790046)
+* [SLAM面试问题总结(2)](https://zhuanlan.zhihu.com/p/69329293)
+* [SLAM面试问题总结(3)](https://zhuanlan.zhihu.com/p/70083649)
 
 
 
